@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+button {
+  background-color: aqua;
+  font-size: 20px;
+  margin-right: 30px;
+  margin-top: 20px;
+  margin-left: 30px;
+  display: flex;
+  border-radius: 10px;
+}
+
+.output {
+  font-size: 20px;
+}
